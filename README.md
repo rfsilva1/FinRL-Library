@@ -1,6 +1,9 @@
 Fork from the great work by Liu, X.Y., Yang, H., Chen, Q., Zhang, R., Yang, L., Xiao, B. and Wang, C.D., 2020. FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance. arXiv preprint arXiv:2011.09607. 
 Please check the original repo at: https://github.com/AI4Finance-LLC/FinRL-Library
 Please check all their work at: https://github.com/AI4Finance-LLC
+
+Ps: this fork uses tensorflow 1.14
+
 This fork focuses on the single stock env and contains mainly changes for:
 - running with a different stock
 - running a gridsearch for hyperparameters
